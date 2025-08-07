@@ -382,7 +382,7 @@ FinWiseAI is **API-dependent** and requires proper configuration to function. Th
 This project uses:
 - **ESLint** for code linting with Next.js and TypeScript rules
 - **TypeScript** for type safety throughout
-- **Tailwind CSS** for styling with custom design system
+- **Tailwind CSS** for styling with a custom design system
 - **Prettier** for code formatting (recommended)
 
 ### Development Features
@@ -408,8 +408,7 @@ FinWiseAI takes security and privacy seriously:
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
-
+We welcome contributions! 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
@@ -428,13 +427,6 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Support
-
-- 📧 Email: support@finwiseai.com
-- 💬 Discord: [Join our community](https://discord.gg/finwiseai)
-- 📖 Documentation: [docs.finwiseai.com](https://docs.finwiseai.com)
-- 🐛 Bug Reports: [GitHub Issues](https://github.com/yourusername/finwiseai/issues)
-
 ## 🙏 Acknowledgments
 
 - [Plaid](https://plaid.com) for secure financial data access
@@ -447,5 +439,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Zustand](https://zustand-demo.pmnd.rs) for state management
 
 ---
-
-**Made with ❤️ by the FinWiseAI Team** 
+ 
